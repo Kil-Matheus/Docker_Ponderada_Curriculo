@@ -20,6 +20,6 @@ docker push kilmatheus/curriculo-ponderada1:1.0.0
 
 4. Após puxar, execute o seguinte comando:
 
-docker run -p 8000:8000 b782
+docker run -p 8000:8000 332a
 
 Sendo a assim, a aplicação vai rodar e será possível ver no navegador o meu currículo.
